@@ -4,11 +4,11 @@ This is a sleek and functional web-based calculator built using HTML, CSS, and J
 
 **Key Features:**
 
-    **.**Responsive design: Optimized for various screen sizes, making it usable on both desktop and mobile.
+**.**Responsive design: Optimized for various screen sizes, making it usable on both desktop and mobile.
     
-    **.**User-friendly interface: Easy-to-navigate with large buttons and clear display for better user interaction.
+**.**User-friendly interface: Easy-to-navigate with large buttons and clear display for better user interaction.
     
-    **.**Real-time calculation: Instant feedback and error handling for invalid operations.
+**.**Real-time calculation: Instant feedback and error handling for invalid operations.
 
 Built using pure HTML, CSS, and JavaScript, this calculator provides an efficient, lightweight solution for quick calculations. It is designed to be easily customizable and can be expanded with additional features in the future.
 
