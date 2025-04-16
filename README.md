@@ -12,7 +12,7 @@ Real-time calculation: Instant feedback and error handling for invalid operation
 
 Built using pure HTML, CSS, and JavaScript, this calculator provides an efficient, lightweight solution for quick calculations. It is designed to be easily customizable and can be expanded with additional features in the future.
 
-Feel free to adjust the description based on your preferences!
+
 
 
 
